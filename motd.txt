@@ -1,3 +1,5 @@
 WELCOME TO AMAZING APES. CHILL WITH YOUR FRIENDS.
 
-UPDATES:Added maze (maze has no collision)
+Update:
+
+Fixed:maze, kick gun
