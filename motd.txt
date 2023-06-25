@@ -1,5 +1,5 @@
 WELCOME TO AMAZING APES. CHILL WITH YOUR FRIENDS.
 
-Update:Maze not playable right now. Added horror area
+Update:Maze is back new map and walls added
 
-Fixed:teleporters
+Fixed:Maze collisions (thats why it was removed for a while)
